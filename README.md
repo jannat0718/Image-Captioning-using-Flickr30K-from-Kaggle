@@ -1,1 +1,3 @@
-Building an Image Captioning Model using VGG16 and LSTM on Flicker30K dataset
+# Building an Image Captioning Model using VGG16 and LSTM on Flicker30K dataset
+
+Flicker30K dataset: The Flickr30k dataset consists of 31,783 images that were collected from the Flickr website. Each image is accompanied by five captions, for a total of 158,915 captions.The images in the Flickr30k dataset cover a wide range of topics and categories, including people, animals, nature, and architecture. In addition, the dataset has been annotated with additional information such as object annotations, named entity annotations, and sentiment annotations. For this project, I ahve collected the datset from kaggle.
